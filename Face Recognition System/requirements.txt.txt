@@ -1,0 +1,9 @@
+Flask
+Flask-SQLAlchemy
+opencv-python
+face-recognition
+numpy
+pandas
+plotly
+Pillow
+SQLAlchemy
